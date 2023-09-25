@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Katherine Goode"
+  title: "Carlos Llosa"
   search: true
   navbar:
     right:
@@ -13,11 +13,11 @@ website:
       - presentations.qmd
       - software.qmd
       - icon: github
-        url: "https://github.com/goodekat"
+        url: "https://github.com/carlos-llosa"
       - icon: linkedin
-        url: "https://www.linkedin.com/in/katherine-goode-363517a9/"
+        url: "https://www.linkedin.com/in/carlos-llosa-83a77aa2/"
       - icon: google
-        url: "https://scholar.google.com/citations?hl=en&user=yD_b79UAAAAJ"
+        url: "https://scholar.google.com/citations?hl=en&user=NsKKWZcAAAAJ"
 
 format:
   html:
